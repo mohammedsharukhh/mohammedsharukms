@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Sharuk M S</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitchandrajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedsharukms" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username="mohammedsharukhh" alt="mohammedsharukhh" /></a> </p>
-<img align = "right" alt = "coding" width = "400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Image">
-<p align="left"> <a href="https://twitter.com/rohit_joshi_01" target="blank"><img src="https://img.shields.io/twitter/followmsharuk_ms?logo=twitter&style=for-the-badge" alt="msharuk_ms" /></a> </p>
-
 - 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **MERN Full Stack Development, DSA , Electronics**
