@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)](https://friendly-cucurucho-c0aa8a.netlify.app/)
+[![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VkOXdrMmFxY21jYnVwc3hoYzBidmt5dWxxM25qZWc2aTc5b2ZtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HoffxyN8ghVuw/giphy.webp)](https://friendly-cucurucho-c0aa8a.netlify.app/)
 <h1 align="center">Hi 👋, I'm Mohammed Sharuk M S</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
